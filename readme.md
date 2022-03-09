@@ -11,8 +11,8 @@
 - 🔭 Check out my profile
 - 🌱 I’m currently learning datascience 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about 
-- ⚡ Fun fact: I love to learn languages and listen podcasts
+- 🥅 2022 Goals: Learn more about datascience and python programming
+- ⚡ Fun fact: I love learning languages and listen podcasts
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,7 +38,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
 
 </p>
 
