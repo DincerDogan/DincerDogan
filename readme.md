@@ -1,14 +1,12 @@
 
 
-<h1 align="center"># Hi there, I'm Dincer Dogan Civil & Computational Engineer - Recently I started studying on Data Science. 👋 </h1>
-<h3 align="center">Civil Engineer-Computational Engineer and Junior Data Scientist, Lifelong Learning Enthusiast</h3>
+<h1 align="center"># Hi there, I'm Dincer Dogan Civil & Computational Engineer  👋 </h1>
+<h3 align="center">A candidate to Junior Data Scientist, Lifelong Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dincerdogan&label=Profile%20views&color=0e75b6&style=flat" alt="dincerdogan" /> </p>
 
-- 🔭 I’m currently working on **Data Science**
 - 🌱 I’m currently learning **Data Science, Power BI, Javascript, Python**
 - 📫 How to reach me **dincerdogan@gmail.com**
-- 🔭 Check out my profile
 - 🌱 I’m currently learning datascience 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about datascience and python programming
