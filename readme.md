@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Data Science, Power BI, Javascript, Python**
 - 📫 How to reach me **dincerdogan@gmail.com**
-- 🌱 I’m currently learning datascience 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about datascience and python programming
 - ⚡ Fun fact: I love learning languages and listen podcasts
